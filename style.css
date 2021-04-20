@@ -1,0 +1,25 @@
+#container{
+  margin: auto;
+  width: 400px;
+  height: 400px;
+  margin-top: 20px;
+}
+
+#controls{
+  display: flex;
+  justify-content: center;
+  
+}
+
+.etch{  
+    float: left;
+    display: inline; 
+    width: 100px;
+    height: 100px;
+    outline: 1px dashed black;
+    }
+
+.pageElement{
+      float:right;
+    margin-left:20px;
+}
